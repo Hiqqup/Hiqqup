@@ -6,6 +6,7 @@ Let me show you what I've been up to:
 
 <div align="center">
 
+<a href="https://github.com/Hiqqup/processing_sketches_01/tree/main/noise_egg_remake"><img src="noise_egg_remake.gif"></a>
 <a href="https://github.com/Hiqqup/processing_sketches_01/tree/main/angel_rasterized"><img src="rasterized_angel.gif"></a>
 </br>
 <a href="https://levixthxn.itch.io/franken-game-jam-25"><img src="kallax_duebeln.gif"></a>
