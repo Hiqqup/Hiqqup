@@ -1,6 +1,8 @@
 
 Hi, I'm Hiqqup and I like working on visuals.
 
+For some insight on my work, check out my [blog](https://hiqqup.github.io/blog/).
+
 Let me show you what I've been up to:
 </br>
 
